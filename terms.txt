@@ -1,0 +1,49 @@
+                                           AGGREMENT
+
+PAYMENTS:
+Payment will be made by Customer within 15 days upon receipt of an invoice. 
+In the event there is a delay in payment for more than 5 days from the due date, 
+the Customer shall be liable to pay an interest of 1.5% per month or maximum 
+permitted by applicable law, whichever is less, on the delayed payments from the 
+due date of payment.Consultant shall be relieved of its obligations under this 
+Agreement in the event of non-payment of the Fees or expenses due and shall retain 
+the rights in the Services for which the amount is outstanding. Consultant will 
+provide the Hardware and Software stated in Annexure – 01, as part of its standard 
+package if required while providing the offshore Services from Consultant’s locations 
+in India. Contractor’s relationship with Company is that of an independent contractor 
+and nothing in this Agreement will be construed to create a joint partnership, joint 
+venture, agency, or employer-employee relationship.
+
+APPROVAL PROCESS:
+Customer will have seven (7) days following receipt of the Services or Deliverable 
+(“Acceptance Period”) to complete acceptance tests as per acceptance criteria agreed 
+in the SOW (“Acceptance Criteria”). If no notice of non-conformance to Acceptance 
+Criteria is reported during Acceptance Period, Deliverables or Services are deemed 
+accepted by the Customer.
+
+WARRIENTIES:
+Except as expressly stated in this Agreement, the parties disclaim all warranties of 
+any kind, implied, statutory, or in any communication between them, including without
+limitation, the implied warranties of merchantability, non-infringement, title, and
+fitness for a particular purpose.
+
+TERMINATION:
+Either party may terminate the Agreement upon sixty (60) days’ notice to the other 
+party. Either party may terminate this Agreement immediately if the other party 
+breaches the terms of this Agreement and the breach remain uncured for 30 days from 
+the date of receipt of notice. In case of termination, the Consultant shall be paid 
+for the Services provided on a pro-rata basis.
+
+ENTIRE AGGREMENT:
+This Agreement shall constitute the complete agreement between the parties respecting 
+the subject matter. This Agreement may not be extended, amended, terminated, or 
+superseded except by agreement in writing between the parties. This Agreement 
+supersedes all previous agreements between the Consultant and the Customer, whether 
+oral or written, regarding subject matter hereof, standard terms and conditions of a 
+purchase order or an invoice or any similar document whether hosted on party’s 
+website or otherwise, shall be ineffective. There are no intended third party 
+beneficiaries to this Agreement. Each Agreement may be executed in one or more 
+counterparts (including scanned copies), all of which when signed and taken together 
+constitute a single agreement between the parties.
+
+

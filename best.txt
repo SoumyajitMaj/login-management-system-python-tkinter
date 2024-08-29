@@ -1,0 +1,10 @@
+1.between 5:30 to 7:00 am
+1.after 7:00 am
+2.after 8:00 am
+2.after 10:00 am
+3.before 10:00 pm
+3.between 10:00 to 11:00 pm
+4.below 2 hours
+4.maximum 2hours
+5.3 litres 
+5.between 3 to 4 litres
